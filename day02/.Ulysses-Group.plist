@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>(Mybatis) SqlMapConfig.xml.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>493113811.90701997</real>
+				<key>version</key>
+				<dict>
+					<key>eebed7c71f2364534b7a43115b16481f7aad5c44d822bf5315381a99c68c878e</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
+			<key>(Mybatis)applicationContext-dao.xml.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>493113820.50610399</real>
+				<key>version</key>
+				<dict>
+					<key>eebed7c71f2364534b7a43115b16481f7aad5c44d822bf5315381a99c68c878e</key>
+					<integer>25</integer>
+				</dict>
+			</dict>
+			<key>(service)applicationContext-service.xml.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>493114429.30289698</real>
+				<key>version</key>
+				<dict>
+					<key>eebed7c71f2364534b7a43115b16481f7aad5c44d822bf5315381a99c68c878e</key>
+					<integer>27</integer>
+				</dict>
+			</dict>
+			<key>day02.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>493112959.79132497</real>
+				<key>version</key>
+				<dict>
+					<key>eebed7c71f2364534b7a43115b16481f7aad5c44d822bf5315381a99c68c878e</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>day02.md</string>
+		</array>
+		<array>
+			<string>(service)applicationContext-service.xml.md</string>
+		</array>
+		<array>
+			<string>(Mybatis) SqlMapConfig.xml.md</string>
+		</array>
+		<array>
+			<string>(Mybatis)applicationContext-dao.xml.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>eebed7c71f2364534b7a43115b16481f7aad5c44d822bf5315381a99c68c878e</key>
+			<integer>28</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
