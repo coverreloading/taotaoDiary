@@ -23,10 +23,19 @@ mybatis：sqlMapConfig.xml, 创建一个applicationContext-dao.xml
 ### 2.2. 框架整合
 需要把配置文件放到taotao-manager-web工程下。因为此工程为war工程，其他的工程只是一个jar包。
 #### 2.2.1 Mybatis整合
+**路径taotao-manager/taotao-manager-web/src/main/resources
 `SqlMapConfig.xml`
 `db.properties`
 `applicationContext-dao.xml`
 1. 数据库连接池( com.alibaba.druid.pool.DruidDataSource ) db.properties
 2.  sqlsessionFactory ( org.mybatis.spring.SqlSessionFactoryBean )
 3. 配置扫描包，加载mapper代理对象
-#### 2.2.2 Servive层
+#### 2.2.2 Service层
+`applicationContext-service.xml`
+`applicationContext-trans.xml`
+#### 2.2.3 表现层
+`springmvc.xml`
+`web.xml`
+1. spring容器`(   classpath:spring/applicationContext-*.xml   )`
+	2. post乱码
+	3. springmvc的前端控制器( DispatcherServlet )
